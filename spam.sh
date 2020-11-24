@@ -10,11 +10,22 @@ un='\033[37;1m' #ungu #2
 ku='\033[33;1m' #kuning
 toilet -f big -F gay SpamCall
 echo
-echo " ╔═══════════════════•ೋೋ•════════════════════╗"
-echo "   Penulis        : Mr.X969"
-echo "   Whatsapp       : 085397907992"
-echo "   Mr.X969 Popeye Cyber Squad"
-echo " ╚═══════════════════•ೋೋ•════════════════════╝"
+echo "#########################################################"
+echo"#------------------------[SPAM CALL]----------------------#"
+echo"#---------------------------------------------------------#"
+echo"#   Command: sh spam.sh                                   #"
+echo"#                                                         #"
+echo"#                                                         #"
+echo"#Creator:Mr.X969 ##     " ###       ##  "                 #"
+echo"#Team   : POPEYE      "  ##     #          ##  "          #"
+echo"#Version:1.0       " ##      ###       ##   "             #"
+echo"#                 "  ##  ##     #  ##  ##    "            #"
+echo"#                "   ##  ##  ###   ##  ###### "           #"
+echo"#             "  <--[Indonesia Security Lite]-->  "       #"
+echo"#########################################################"
+echo                   "    @@@@@@@@@@"
+echo                   "   @@@@@@@@@@@@"
+echo                   " @@@@@@@@@@@@@@@@"
 echo
 sleep 0.5
 echo "Masukan Nomor Dengan Benar. Contoh : 823xxxxxxxxx"
