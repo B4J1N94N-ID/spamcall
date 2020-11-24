@@ -23,9 +23,9 @@ echo "#                   ##  ##     #  ##  ##                #"
 echo "#                   ##  ##  ###   ##  ######            #"
 echo "#               <--[Indonesia Security Lite]-->         #"
 echo "#########################################################"
-echo                   "    @@@@@@@@@@"
-echo                   "   @@@@@@@@@@@@"
-echo                   " @@@@@@@@@@@@@@@@"
+echo "                       @@@@@@@@@@"
+echo "                      @@@@@@@@@@@@"
+echo  "                   @@@@@@@@@@@@@@@@"
 echo
 sleep 0.5
 echo "Masukan Nomor Dengan Benar. Contoh : 823xxxxxxxxx"
